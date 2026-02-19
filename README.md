@@ -1,4 +1,4 @@
-Database Systems Mini Project
+# Database Systems Mini Project
 
 Database Systems mini project. An application for practicum assistant
 
